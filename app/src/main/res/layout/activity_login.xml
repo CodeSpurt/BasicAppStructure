@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout_login"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.activities.Login">
+
+    <include layout="@layout/action_bar" />
+
+    <com.codespurt.basicappstructureboilerplate.views.custom.layouts.CustomLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/iv_app"
+            android:layout_width="@dimen/img_size"
+            android:layout_height="@dimen/img_size"
+            android:src="@mipmap/ic_launcher" />
+
+        <com.codespurt.basicappstructureboilerplate.views.custom.CustomEditText
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin"
+            android:hint="@string/email"
+            android:inputType="textWebEmailAddress"
+            android:textSize="@dimen/tv_text_size" />
+
+        <com.codespurt.basicappstructureboilerplate.views.custom.CustomEditText
+            android:id="@+id/et_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin"
+            android:hint="@string/password"
+            android:inputType="textWebPassword"
+            android:textSize="@dimen/tv_text_size" />
+
+        <com.codespurt.basicappstructureboilerplate.views.custom.CustomButton
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin"
+            android:layout_marginTop="@dimen/margin_top"
+            android:background="@drawable/btn_background"
+            android:text="@string/login"
+            android:textColor="@color/btn_text" />
+
+    </com.codespurt.basicappstructureboilerplate.views.custom.layouts.CustomLinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

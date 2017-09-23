@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="toolbar_title">#FFFFFF</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="btn_text">#FFFFFF</color>
+    <color name="et_text">#000000</color>
+    <color name="tv_text">#000000</color>
+
+    <color name="recycler_view">#e7d8d8</color>
+</resources>

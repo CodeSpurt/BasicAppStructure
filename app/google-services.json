@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1029806035142",
+    "firebase_url": "https://basicappstructureboilerplate.firebaseio.com",
+    "project_id": "basicappstructureboilerplate",
+    "storage_bucket": "basicappstructureboilerplate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029806035142:android:9e5b8d702acfa59b",
+        "android_client_info": {
+          "package_name": "com.codespurt.basicappstructureboilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029806035142-c5np9mokbra43mci6enafojb3mv4la2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codespurt.basicappstructureboilerplate",
+            "certificate_hash": "639e6919f17339a51c844656e3981b25912e7b55"
+          }
+        },
+        {
+          "client_id": "1029806035142-a89htf63cgopqgvmmi9u5bucv7d6038r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrHDy4AC9rZL0eGaVZdQiqMrIJHqEK_xg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029806035142-a89htf63cgopqgvmmi9u5bucv7d6038r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

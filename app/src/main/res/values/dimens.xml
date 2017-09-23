@@ -1,0 +1,38 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--toolbar-->
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="vector_img_size">24dp</dimen>
+
+    <!--custom xml-->
+    <dimen name="stroke">1dp</dimen>
+
+    <!--margins-->
+    <dimen name="margin">10dp</dimen>
+    <dimen name="margin_left">10dp</dimen>
+    <dimen name="margin_right">10dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="margin_bottom">10dp</dimen>
+
+    <!--padding-->
+    <dimen name="padding">10dp</dimen>
+    <dimen name="padding_left">10dp</dimen>
+    <dimen name="padding_right">10dp</dimen>
+    <dimen name="padding_top">10dp</dimen>
+    <dimen name="padding_bottom">10dp</dimen>
+    <dimen name="card_padding">20dp</dimen>
+
+    <!--image-->
+    <dimen name="img_size">200dp</dimen>
+    <dimen name="radius">4dp</dimen>
+
+    <!--text sizes-->
+    <dimen name="btn_text_size">18sp</dimen>
+    <dimen name="et_text_size">14sp</dimen>
+    <dimen name="tv_heading_text_size">24sp</dimen>
+    <dimen name="tv_text_size">18sp</dimen>
+
+    <!--navigation view-->
+    <dimen name="nav_header_height">70dp</dimen>
+</resources>

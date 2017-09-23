@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BasicAppStructureBoilerplate</string>
+
+    <!--Permissions-->
+    <string name="permission_granted">Permission Granted</string>
+    <string name="permission_rejected">Some functionality might not work</string>
+
+    <!--System Errors-->
+    <string name="internet_unavailable">You need to connect to Internet to continue using the app</string>
+    <string name="notifications_unavailable">Notifications will not work unless you install Google Play Services</string>
+
+    <!--General-->
+    <string name="coming_soon">Coming Soon</string>
+    <string name="disable_back_press">Cannot go back</string>
+
+    <!--Menu Items-->
+    <string name="language_english">English - EN</string>
+    <string name="language_arabic">Arabic - AR</string>
+    <string name="menu_about">About</string>
+
+    <!--Hints-->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <!--User Errors-->
+    <string name="invalid_credentials">Invalid Credentials</string>
+
+    <!--Dialog Button Text-->
+    <string name="positive_button">Ok</string>
+    <string name="negative_button">Cancel</string>
+
+    <!--Custom Views-->
+    <string name="custom_button">Custom Button</string>
+    <string name="custom_editText">Custom EditText</string>
+    <string name="custom_textView">Custom TextView</string>
+
+    <!--Login Screen-->
+    <string name="login">Login</string>
+
+    <!--Navigation Items-->
+    <string name="openDrawer">Open</string>
+    <string name="closeDrawer">Close</string>
+    <string name="header">Header</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="logout">Logout</string>
+
+    <!--Dashboard Screen-->
+    <string name="dashboard">Dashboard</string>
+
+    <!--Home Fragment-->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="history_fragment">History Fragment</string>
+</resources>

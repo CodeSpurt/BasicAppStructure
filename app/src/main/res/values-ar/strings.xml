@@ -1,0 +1,52 @@
+<resources>
+    <!--Permissions-->
+    <string name="permission_granted">تم تأمين التصريح</string>
+    <string name="permission_rejected">قد لا تعمل بعض الوظائف</string>
+
+    <!--System Errors-->
+    <string name="internet_unavailable">تحتاج إلى الاتصال بالإنترنت لمواصلة استخدام التطبيق</string>
+    <string name="notifications_unavailable">لن تعمل الإشعارات ما لم تقم بتثبيت خدمات غوغل بلاي</string>
+
+    <!--General-->
+    <string name="coming_soon">قريبا</string>
+    <string name="disable_back_press">لا يمكن أن أعود</string>
+
+    <!--Menu Items-->
+    <string name="language_english">English - EN</string>
+    <string name="language_arabic">العربية - أر</string>
+    <string name="menu_about">حول</string>
+
+    <!--Hints-->
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمه السر</string>
+
+    <!--User Errors-->
+    <string name="invalid_credentials">بيانات الاعتماد غير صالحة</string>
+
+    <!--Dialog Button Text-->
+    <string name="positive_button">حسنا</string>
+    <string name="negative_button">إلغاء</string>
+
+    <!--Custom Views-->
+    <string name="custom_button">زر مخصص</string>
+    <string name="custom_editText">مخصص إديتكست</string>
+    <string name="custom_textView">مخصص تكستفيو</string>
+
+    <!--Login Screen-->
+    <string name="login">تسجيل الدخول</string>
+
+    <!--Navigation Items-->
+    <string name="openDrawer">فتح</string>
+    <string name="closeDrawer">قريب</string>
+    <string name="header">رأس</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="history">التاريخ</string>
+    <string name="logout">الخروج</string>
+
+    <!--Dashboard Screen-->
+    <string name="dashboard">لوحة القيادة</string>
+
+    <!--Home Fragment-->
+    <string name="home_fragment">جزء المنزل</string>
+    <string name="history_fragment">تاريخ جزء</string>
+</resources>
